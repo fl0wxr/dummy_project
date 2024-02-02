@@ -1,7 +1,7 @@
 # dummy_project
-line2
-line3
+- line2
+- line3
 
 
-line6
-line7
+- line6
+- line7
