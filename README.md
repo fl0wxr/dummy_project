@@ -1,5 +1,7 @@
 # dummy_project
+line2
+line3
 
-testing1
 
-- TESTING3
+line6
+line7
