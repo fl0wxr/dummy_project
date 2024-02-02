@@ -6,3 +6,5 @@ testing1
 
 - line6
 - line7
+
+- newline
